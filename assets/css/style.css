@@ -1,0 +1,177 @@
+.col-text-index h1{
+    font-size: 100px;
+    color: #076594;
+}
+.col-text-event{
+    padding: 100px;
+}
+.col-text-img img{
+    width: 720px;
+}
+.img-event img{
+    width: 720px;
+}
+.col-courousel{
+    padding: 0px 100px 0px 20px;
+}
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 399px) and (max-width: 575.98px) {
+    body{
+        height: auto;
+    }
+    .col-text-img img{
+        width: 400px;
+        padding: 50px;
+    }
+    .col-text-index h1{
+        font-size: 70px;
+    }
+    .col-card{
+        padding: 50px 0px 0px 0px;
+    }
+    .border-event blockquote dt{
+        padding: 20px 50px 20px 50px;
+    }
+    .quote p{
+        padding: 0px;
+    }
+    .col-Ebook{
+        padding: auto;
+    }
+    .col-Ebook img{
+        width: 220px;
+    }
+    .col-Ebook a{
+        padding: auto;
+    }
+    .media-Ebook{
+        margin: auto;
+    }
+    .img-event img{
+        width: 350px;
+    }
+    .col-courousel{
+        margin: 30px 30px 0px 30px;
+    }
+    .img-crowd{
+        width: 250px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+  }
+
+  /* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body{
+        height: auto;
+    }
+    .col-text-img img{
+        width: 500px;
+    }
+    .col-text-index h1{
+        font-size: 80px;
+    }
+    .col-card{
+        padding: 50px 50px 0px 50px;
+    }
+    .border-event blockquote dt{
+        padding: 10px 50px 10px 50px;
+    }
+    .quote p{
+        padding: 20px;
+    }
+    .col-courousel{
+        padding: 0px 200px 0px 0px;
+        margin: 30px 30px 0px 30px;
+    }
+    .col-collab{
+        margin: 10px 130px 0px 0px;
+    }
+    .img-event img{
+        width: 560px;
+    }
+  }
+  
+  /* // Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    body{
+        height: auto;
+    }
+    .col-card{
+        padding: 50px 0px 0px 0px;
+    }
+    .col-text-index h1{
+        padding: 50px;
+    }
+    .border-event{
+        padding: 50px;
+    }
+    .quote p{
+        padding: 50px;
+    }
+    .col-Ebook{
+        padding: 0px 50px 0px 50px;
+    }
+    .col-courousel{
+        margin: 50px;
+        padding: 0px;
+    }
+    .img-event img{
+        /* width: 420px; */
+        margin: 0px;
+    }
+    .col-collab{
+        margin: 10px 50px 0px 50px;
+        padding: 0px;
+    }
+  }
+  
+  /* // Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    body{
+        height: auto;
+    }
+    .col-card{
+        padding: 50px;
+    }
+    .col-text-index h1{
+        font-size: 80px;
+    }
+    .col-text-img img{
+        width: 600px;
+    }
+    .col-courousel{
+        margin: 10px 20px 0px 20px;
+        padding: 0px;
+    }
+    .col-collab{
+        margin: 10px 20px 0px 20px;
+        padding: 0px;
+    }
+    .col-text-event{
+        padding: 0px;
+        margin: 100px;
+    }
+    .quote p{
+        margin: 10px;
+    }
+    /* .col-text-event img{
+        width: 400px;
+    } */
+  }
+  
+  /* // Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) and (max-width: 1520.98px){
+    body{
+        height: auto;
+    }
+    .col-card{
+        padding: 100px;
+    }
+    .col-courousel{
+        margin: 10px 15px 0px 15px;
+        padding: 0px;
+    }
+  }
