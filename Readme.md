@@ -2,4 +2,4 @@
 
 <a href="https://davischaliq.github.io/cips.github.io/">Click here for github pages</a>
 
-Thanks to <a href="https://www.cips-indonesia.org/">CIPS Indonesia for my inspiration desaign</a>
+Thanks to <a href="https://www.cips-indonesia.org/">CIPS Indonesia</a>for my inspiration desaign
